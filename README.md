@@ -1,4 +1,4 @@
 TestGithub
 ==========
 
-Testing of Github repository
+Testing of Github repository for learing.
