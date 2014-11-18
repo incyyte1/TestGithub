@@ -7,7 +7,6 @@ public class ContactsInfo {
 		System.out.println("Hello World2");
 		System.out.println("Hi World");
 		System.out.println("bye  World");
-		
 	}
 
 }
